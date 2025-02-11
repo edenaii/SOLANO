@@ -1,0 +1,1 @@
+flask flask_cors solana textblob tweepy pandas numpy statsmodels uvicorn
